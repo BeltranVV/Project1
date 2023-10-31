@@ -33,7 +33,7 @@ The goal is to determine the statistical significance of the relationships betwe
 ## Results
 
 The data was categorized based on population density, classifying the data into three categories with an equal number of data points to ensure that each group was representative. Additionally, the logarithm of the data was taken to normalize the distribution. Also, the logarithm of the data was taken to normalize the distribution.
-
+![data](categorized_data.png)
 
 ## Conclusions
 
