@@ -16,13 +16,13 @@ The COVID-19 pandemic has raised questions about the factors contributing to the
 
 The investigation uses data from:
 
-- COVID-19 infection rates by county obtained from: 
-- Migration flow data, obtained from:
-- Population density data, obtained from: 
+- COVID-19 infection rates by county obtained from: https://github.com/nytimes/covid-19-data/blob/master/us-counties-recent.csv
+- Migration flow data, obtained from: [CENSUS.gov](https://www.census.gov/)
+- Population density data, obtained from: https://covid19.census.gov/
 
 ## Methodology
 
-The investigation employs various statistical methods, including but not limited to:
+The investigation employs various statistical methods, including:
 
 - Linear regression analysis
 - Hypothesis testing
@@ -30,9 +30,10 @@ The investigation employs various statistical methods, including but not limited
 
 The goal is to determine the statistical significance of the relationships between migration rates, population density, and COVID-19 infection rates.
 
-## Key Findings
+## Results
 
-This section will be updated with the key findings of the investigation as they become available.
+The data was categorized based on population density, classifying the data into three categories with an equal number of data points to ensure that each group was representative. Additionally, the logarithm of the data was taken to normalize the distribution. Also, the logarithm of the data was taken to normalize the distribution.
+
 
 ## Conclusions
 
