@@ -40,7 +40,8 @@ The data can be observed in the following graph:
 
 Among the independent variables, "mf" (Migration Flow) and the intercept (const) are found to be highly significant, with low p-values, implying their strong influence on "roi." The "density_level" variable, while not as statistically significant (p-value = 0.077), may still have some impact
 
-![reg_simple](regression_1.png)
+![Regression Analysis](regression_1.png)
+
 
 Individually, both "mf" and "density_level" show significant negative coefficients, suggesting that increases in these variables are associated with a decrease in "roi." The interaction term's coefficient is positive but statistically insignificant (p-value = 0.102), indicating a potential interaction effect that requires further investigation. In summary, these results illustrate the complex interplay between "mf" and "density_level" in influencing "roi," with the model explaining a substantial portion of the variation in the response variable. Further research may be needed to understand the full implications of the interaction term.
 
