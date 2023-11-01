@@ -36,6 +36,7 @@ Subsequently, a linear regression analysis was conducted, this time incorporatin
 ## Results
 
 The data can be observed in the following graph:
+
 ![data](categorized_data.png)
 
 Among the independent variables, "mf" (Migration Flow) and the intercept (const) are found to be highly significant, with low p-values, implying their strong influence on "roi." The "density_level" variable, while not as statistically significant (p-value = 0.077), may still have some impact
